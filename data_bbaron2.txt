@@ -1,0 +1,13 @@
+Results Summary:
+Machine                   Input           Result     Depth      # Configs       Avg Non-Det    
+aplus.csv                 abba            Rejected   2          3               1.50           
+abc_star.csv              abcc            Accepted   5          21              4.20           
+abc_star_DTM.csv          abcc            Accepted   5          6               1.20           
+aplus_DTM.csv             aaa             Accepted   4          5               1.25           
+aplus.csv                 aaa             Accepted   4          8               2.00           
+aplus_DTM.csv             a               Accepted   2          3               1.50           
+aplus_DTM.csv             abc             Rejected   2          2               1.00           
+equal_01s.csv                             Accepted   1          2               2.00           
+abc_star.csv              cab             Rejected   2          3               1.50           
+abc_star_DTM.csv          ab              Accepted   3          4               1.33           
+equal_01s_DTM.csv         010             Rejected   4          4               1.00      
